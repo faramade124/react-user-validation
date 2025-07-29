@@ -1,6 +1,6 @@
 "use client"
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom"
-import { AuthProvider, useAuth } from "/Users/Raheem/react-practise1/src/Contexts/AuthContext"
+import { AuthProvider, useAuth } from "react-router-dom"
 import Login from "/Users/Raheem/react-practise1/src/component/Login"
 import Register from "/Users/Raheem/react-practise1/src/component/Register"
 import PersonalInfo from "/Users/Raheem/react-practise1/src/component/PersonalInfo"
